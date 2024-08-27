@@ -1,0 +1,656 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.4.0" title="Shotcut version 22.01.30" producer="main_bin">
+  <profile description="automatic" width="1366" height="768" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="683" display_aspect_den="384" frame_rate_num="1000" frame_rate_den="33" colorspace="709"/>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:02.574">
+    <property name="length">00:00:02.607</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:02.574"/>
+  </playlist>
+  <chain id="chain0" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain1" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain2" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain3" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain4" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain5" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain6" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain7" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain8" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain9" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain10" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain11" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain12" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain13" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain14" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain15" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain16" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain17" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain18" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain19" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain20" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain21" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain22" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain23" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain24" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain25" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain26" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain27" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain28" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain29" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain30" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain31" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain32" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain33" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain34" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain35" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain36" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain37" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain38" out="00:02:11.880">
+    <property name="length">00:02:11.913</property>
+    <property name="eof">pause</property>
+    <property name="resource">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">d047185b9cd9d28a94b19efbb8fc88c3</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">SFMM Mk1 Sim3 source-2024-08-22_23.08.55.mkv</property>
+    <property name="xml">was here</property>
+  </chain>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain0" in="00:00:16.764" out="00:00:16.830"/>
+    <entry producer="chain1" in="00:00:18.579" out="00:00:18.612"/>
+    <entry producer="chain2" in="00:00:20.163" out="00:00:20.196"/>
+    <entry producer="chain3" in="00:00:22.803" out="00:00:22.836"/>
+    <entry producer="chain4" in="00:00:25.707" out="00:00:25.740"/>
+    <entry producer="chain5" in="00:00:28.578" out="00:00:28.611"/>
+    <entry producer="chain6" in="00:00:31.581" out="00:00:31.614"/>
+    <entry producer="chain7" in="00:00:34.452" out="00:00:34.485"/>
+    <entry producer="chain8" in="00:00:37.323" out="00:00:37.356"/>
+    <entry producer="chain9" in="00:00:40.260" out="00:00:40.293"/>
+    <entry producer="chain10" in="00:00:43.197" out="00:00:43.230"/>
+    <entry producer="chain11" in="00:00:46.101" out="00:00:46.134"/>
+    <entry producer="chain12" in="00:00:49.005" out="00:00:49.038"/>
+    <entry producer="chain13" in="00:00:50.721" out="00:00:50.754"/>
+    <entry producer="chain14" in="00:00:53.427" out="00:00:53.460"/>
+    <entry producer="chain15" in="00:00:56.298" out="00:00:56.331"/>
+    <entry producer="chain16" in="00:00:59.235" out="00:00:59.268"/>
+    <entry producer="chain17" in="00:01:02.112" out="00:01:02.145"/>
+    <entry producer="chain18" in="00:01:03.564" out="00:01:03.597"/>
+    <entry producer="chain19" in="00:01:05.346" out="00:01:05.379"/>
+    <entry producer="chain20" in="00:01:07.953" out="00:01:07.986"/>
+    <entry producer="chain21" in="00:01:10.857" out="00:01:10.890"/>
+    <entry producer="chain22" in="00:01:13.893" out="00:01:13.926"/>
+    <entry producer="chain23" in="00:01:16.929" out="00:01:16.962"/>
+    <entry producer="chain24" in="00:01:19.932" out="00:01:19.965"/>
+    <entry producer="chain25" in="00:01:21.714" out="00:01:21.747"/>
+    <entry producer="chain26" in="00:01:24.288" out="00:01:24.321"/>
+    <entry producer="chain27" in="00:01:25.740" out="00:01:25.773"/>
+    <entry producer="chain28" in="00:01:27.324" out="00:01:27.357"/>
+    <entry producer="chain29" in="00:01:30.228" out="00:01:30.261"/>
+    <entry producer="chain30" in="00:01:33.066" out="00:01:33.099"/>
+    <entry producer="chain31" in="00:01:36.135" out="00:01:36.168"/>
+    <entry producer="chain32" in="00:01:39.039" out="00:01:39.072"/>
+    <entry producer="chain33" in="00:01:41.976" out="00:01:42.009"/>
+    <entry producer="chain34" in="00:01:44.880" out="00:01:44.913"/>
+    <entry producer="chain35" in="00:01:48.015" out="00:01:48.048"/>
+    <entry producer="chain36" in="00:01:51.216" out="00:01:51.249"/>
+    <entry producer="chain37" in="00:01:54.285" out="00:01:54.318"/>
+    <entry producer="chain38" in="00:01:57.255" out="00:01:57.288"/>
+    <filter id="filter0" out="00:00:02.574">
+      <property name="argument"></property>
+      <property name="geometry">2 -1 1093 112 1</property>
+      <property name="family">Sans</property>
+      <property name="size">48</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">0x000000ff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">0x00000000</property>
+      <property name="pad">0</property>
+      <property name="halign">left</property>
+      <property name="valign">top</property>
+      <property name="outline">0</property>
+      <property name="pixel_ratio">1</property>
+      <property name="mlt_service">qtext</property>
+      <property name="shotcut:filter">richText</property>
+      <property name="html">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Ubuntu'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'sans-serif'; font-size:30pt; font-weight:600; color:#ffffff;&quot;&gt;https://tomboy-pink.co.uk/sfmm&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 22.01.30" in="00:00:00.000" out="00:00:02.574">
+    <property name="shotcut">1</property>
+    <property name="shotcut:scaleFactor">12.2481</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>
